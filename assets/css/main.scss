@@ -6,3 +6,16 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+a:link.aboutLinks {
+  color: #000;
+  text-decoration:none;
+}
+a:visited.aboutLinks {
+  color: #000;
+  text-decoration:none;
+}
+a:hover.aboutLinks {
+  color:#000;
+  text-decoration:underline;
+}

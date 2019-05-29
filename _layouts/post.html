@@ -26,15 +26,17 @@ layout: default
           {{ content }}
         </div>
 
-        {% if page.share %}
-          {% include social-share.html %}
-        {% endif %}
+        {% if page.title != "About me" %}
+          {% if page.share %}
+            {% include social-share.html %}
+          {% endif %}
 
-        {% if site.disqus.shortname %}
-          {% include disqus-comments.html %}
-        {% endif %}
+          {% if site.disqus.shortname %}
+            {% include disqus-comments.html %}
+          {% endif %}
 
-        {% include page-pagination.html %}
+          {% include page-pagination.html %}
+        {% endif %}
       </div>
     </div>
   </article>
