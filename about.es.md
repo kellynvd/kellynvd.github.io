@@ -2,6 +2,7 @@
 title: About me
 layout: post
 permalink: /about/
+lang: es
 ---
 
 <h3> Hello world! Prazer, eu sou a Kellyn!</h3>

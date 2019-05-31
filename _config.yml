@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
-locale: en-US
+#locale: en-US
 title: "Kellyn Duarte"
 description: "You live. You learn. You upgrade."
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -122,3 +122,10 @@ footer_links:
 #  - title: Feed
 #    url: atom.xml
 #    icon: fas fa-rss-square
+
+#Polyglot
+languages: ["en", "es"]
+default_lang: "es"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
+data_dir: ./_data
