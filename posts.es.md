@@ -6,4 +6,6 @@ show_excerpts: true
 entries_layout: list
 comments: true
 lang: es
+pagination:
+  enabled: true
 ---

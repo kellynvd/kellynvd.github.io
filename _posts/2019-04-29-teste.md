@@ -4,7 +4,6 @@ image:
   path: /images/fazer-o-que-se-ama.jpg
   thumbnail: /images/fazer-o-que-se-ama-400x200.jpg
 lang: es
-hidden: false
 ---
 
 Você houve o tempo todo que fazer o que você ama ou o que você é apaixonado é o caminho para a felicidade na carreira.

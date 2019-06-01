@@ -10,7 +10,11 @@
       {% if entry.link %}
         <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a>
       {% else %}
-        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
+        {% if site.active_lang == 'en' %}
+          <a href="{{ entry.url | relative_url | prepend: '/en'}}" rel="bookmark">{{ title }}</a>
+        {% else %}
+          <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
+        {% endif %}
       {% endif %}
     </h3>
     {% if entry.image.thumbnail %}
@@ -27,7 +31,11 @@
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
         <div class="more-link">
-          <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.active_lang].read_more | default: 'Read More' }}</a>
+          {% if site.active_lang == 'en' %}
+            <a href="{{ entry.url | relative_url | prepend: '/en'}}">{{ site.data.text[site.active_lang].read_more | default: 'Read More' }}</a>
+          {% else %}
+            <a href="{{ entry.url | relative_url }}">{{ site.data.text[site.active_lang].read_more | default: 'Read More' }}</a>
+          {% endif %}
         </div>
       {% endif %}
     </div>
