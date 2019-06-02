@@ -120,8 +120,8 @@ footer_links:
 #    icon: fas fa-rss-square
 
 #Polyglot
-languages: ["en", "es"]
-default_lang: "es"
+languages: ["en", "pt"]
+default_lang: "pt"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true
 data_dir: ./_data

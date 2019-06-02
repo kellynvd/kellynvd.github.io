@@ -1,11 +1,11 @@
 ---
-title: Post Archive
+title: Artigos
 layout: posts
 permalink: /posts/
 show_excerpts: true
 entries_layout: list
 comments: true
-lang: es
+lang: pt
 pagination:
   enabled: true
 ---
