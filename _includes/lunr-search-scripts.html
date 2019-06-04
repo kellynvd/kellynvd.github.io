@@ -52,19 +52,25 @@
       this.field('excerpt')
       this.field('categories')
       this.field('tags')
+      this.field('lang')
       this.ref('id')
 
       this.pipeline.remove(lunr.trimmer)
 
+      var lang = '{{ site.active_lang }}'
+
       // add documents to index
       for (var item in store) {
-        this.add({
-          title: store[item].title,
-          excerpt: store[item].excerpt,
-          categories: store[item].categories,
-          tags: store[item].tags,
-          id: item
-        })
+        if (store[item].lang === lang) {
+          this.add({
+            title: store[item].title,
+            excerpt: store[item].excerpt,
+            categories: store[item].categories,
+            tags: store[item].tags,
+            lang: store[item].lang,
+            id: item
+          })
+        }
       }
     });
 
