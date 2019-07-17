@@ -11,9 +11,9 @@ Do you know those people who have known very well what they want to do, what car
 
 But if there was one thing I was sure I did NOT want, it was being a teacher. In my family there are many teachers, including my mother, and knowing their daily lives, I thought teaching children was not for me. But by circumstances of life I ended up taking guess what? Pedagogy. Yes, I became a teacher.
 
-I graduated in pedagogy and taught for a few years, but I did not love doing it, at least not all the time. After some time, teaching began to make no more sense to me and I went looking for new challenges. I chose a totally different area.
+I graduated in pedagogy and worked as a teacher for a few years, but I did not love doing it, at least not all the time. After some time, teaching began to make no more sense to me and I went looking for new challenges. I chose a totally different area and changed my focus to technology.
 
-About 5 years ago, I left classrooms and started working in technology companies. In that time I was able to get to know and work a little in each area of these companies: commercial, marketing, processes, writing some code from time to time and in recent years I worked as Product Owner / Manager. I was the interface between development teams and stakeholders, analyzed the quality and specifications of the software, scoped tasks and prioritized deliveries. But I had that feeling that something was missing, you know? I was not really in love with it and I did not feel fulfilled. So I decided to leave a stable career and change again. Now here I am, again, on this beautiful and confusing journey to become a developer.
+About 5 years ago, I left classrooms and started working in technology companies. In that time I was able to  work a little in each area of these companies: commercial, marketing, processes, even writing some code from time to time and in the latest years I worked as Product Owner / Manager. I was the interface between development teams and stakeholders, analyzed the quality and specifications of the software, scoped tasks and prioritized deliveries. But I had that feeling that something was missing, you know?. So I decided to leave a stable career and change again. Now here I am, again, on this beautiful and confusing journey to become a developer.
 
 ### But why developer? 
 
@@ -23,7 +23,7 @@ Another reason is that this is a career that gives you many possibilities, you c
 
 It also has the satisfaction of creating something that can still be useful to others: softwares transform and make life easier for people and directly or indirectly we end up making a difference for those who use them.
 
-And last but not least, I ended up finding that programming is really fun. Writing code is a creative process, there are several ways to do the same thing and different tools and languages. Besides the sense of accomplishment when you can solve a very complicated problem and your code runs without any error is inexplicable.
+And last but not least, I ended up finding that programming is really fun. Writing code is a creative process,there are several ways to do the same thing and different tools and languages. Besides the sense of accomplishment when you can solve a very complicated problem and your code runs without any error is inexplicable.
 
 I have a long way to go, but do we have to start from somewhere right ?! Sometimes we have to take a few steps back or to the side, to reach our true goal. Starting over does not mean that you have failed, rather it is a way of recognizing that you might be following the wrong way and finally decided to take another path and face new challenges. Being happy is a matter of choice, find a purpose and let go of what no longer serves you.
 
