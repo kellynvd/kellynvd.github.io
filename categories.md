@@ -1,7 +1,7 @@
 ---
-title: Category Archive
+title: Arquivo de categorias
 layout: categories
-permalink: /categories/
+permalink: /categorias/
 show_excerpts: true
 entries_layout: list
 ---

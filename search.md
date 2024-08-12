@@ -1,6 +1,6 @@
 ---
-title: Search
+title: Pesquisar
 layout: search
-permalink: /search/
+permalink: /pesquisar/
 sitemap: false
 ---

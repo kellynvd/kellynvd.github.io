@@ -58,7 +58,7 @@ paginate_path: /page:num/
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-category_archive_path: "/categories/#"
+category_archive_path: "/categorias/#"
 tag_archive_path: "/tags/#"
 
 # Exclude from processing.
@@ -92,9 +92,8 @@ defaults:
 # Site Author
 author:
   name: Kellyn Duarte
-  picture: /images/kellyn.jpg
+  picture: /images/kellyn-perfil.jpg
   email:
-  twitter: kellynvd
   links:
     - title: GitHub
       url: https://github.com/kellynvd
@@ -105,9 +104,6 @@ author:
     - title: Linkedin
       url: https://www.linkedin.com/in/kellynduarte/
       icon: fab fa-linkedin
-    - title: TikTok
-      url: https://www.tiktok.com/@kellynduarte_
-      icon: fab fa-tiktok
     - title: Youtube
       url: https://www.youtube.com/@kellynduarte
       icon: fab fa-youtube
@@ -123,9 +119,6 @@ footer_links:
   - title: Linkedin
     url: https://www.linkedin.com/in/kellynduarte/
     icon: fab fa-linkedin
-  - title: TikTok
-    url: https://www.tiktok.com/@kellynduarte_
-    icon: fab fa-tiktok
   - title: Youtube
     url: https://www.youtube.com/@kellynduarte
     icon: fab fa-youtube

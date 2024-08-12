@@ -1,16 +1,16 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: Ínicio
   url: /
-- title: Posts
-  url: /posts/
-- title: Categories
-  url: /categories/
+# - title: Posts
+#   url: /posts/
+# - title: Categorias
+#   url: /categorias/
 # - title: Tags
 #   url: /tags/
-- title: Search
-  url: /search/
-- title: About
-  url: /about/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+- title: Sobre mim
+  url: /sobre/
+- title: Pesquisar
+  url: /pesquisar/
+- title: Shop
+  url: https://www.amazon.com.br/shop/kellynduarte

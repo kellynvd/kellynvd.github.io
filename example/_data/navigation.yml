@@ -3,10 +3,10 @@
 - title: Posts
   url: /posts/
 - title: Categories
-  url: /categories/
+  url: /categorias/
 - title: Tags
   url: /tags/
 - title: Recipes
   url: /recipes/
 - title: Search
-  url: /search/
+  url: /pesquisar/

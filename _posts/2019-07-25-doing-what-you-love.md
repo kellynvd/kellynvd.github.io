@@ -1,63 +1,71 @@
 ---
-title: "Is doing what you love the way to happiness?"
+title: "Fazer o que se ama é o caminho para a felicidade?"
 image:
   path: /images/fazer-o-que-se-ama.jpg
   thumbnail: /images/fazer-o-que-se-ama-400x200.jpg
 categories:
-  Career
+  carreira
 ---
-You hear all the time that doing what you love or what you are passionate about is the way to career happiness.
+Você ouve o tempo todo que fazer o que você ama ou o que você é apaixonado é o caminho para a felicidade na carreira.
 
-People around us try to sell this idea that loving your work is extremely important in your life. These people have good intentions - they don't want you to be forced into a life that you don't like or a career that doesn't satisfy you. But is that advice still true? Will you find a career that you are incredibly passionate about, that will make your whole life look like a vacation?
+Pessoas ao nosso redor vendem esta ideia de que amar o seu trabalho é de extrema importância na sua vida. Essas pessoas têm boas intenções — elas não querem que você seja forçado a uma vida da qual você não gosta ou uma carreira que não te satisfaz. Mas esse conselho ainda é verdadeiro? Você vai encontrar uma carreira que você é incrivelmente apaixonado, que vai fazer toda a sua vida parecer férias?
 
-### My career history
+### Minha história de carreira
 
-I wrote in a <a href="http://kellynduarte.com/career/my-career-change/" target="_blank">*recent post*</a> about my story, how I never knew which profession to choose and how I changed career several times. 
+Sabe aquelas pessoas que desde muito novas já sabem o que querem fazer, que profissão seguir? Pois é, eu não fui uma delas. Quando era mais nova eu já quis ser astrônoma, depois oceanógrafa, bióloga, psicóloga — essa última inclusive cheguei a cursar por um período.
 
-But to summarize, I graduated in Pedagogy, I worked as a teacher and a few years later I changed my focus to technology. I Had experience as a support analyst, marketing, commercial and in the last years I worked as Product Manager/Owner. And right now I'm making a new career transition: I'm on a journey to become a software developer.
+Mas se tinha uma coisa que eu tinha certeza que NÃO queria era ser professora. Na minha família tem muitas professoras, incluindo minha mãe, e conhecendo o dia a dia delas achava que dar aulas não era para mim. Mas por circunstâncias da vida acabei cursando adivinha o quê? Pedagogia. Sim, me tornei professora.
 
-I've always had a lot of indecision about my profession and after walking through all these different areas I ended up realizing that it's not the work itself that gave me the daily motivation, but the goal of the achievement. I think I've always been driven by challenges, I've always been very determined to do all I could to get where I wanted to go.
+Me formei em pedagogia e dei aula por alguns anos — mas eu não amava fazer isso, pelo menos não todo o tempo. Depois de algum tempo lecionar começou a não fazer mais sentido para mim e fui em busca de novos desafios. Fui para uma área totalmente diferente, decidi me arriscar nas exastas — mas não foi de uma hora para outra e não foi simples. Comecei então a trabalhar como analista de suporte numa empresa de software e iniciei um novo curso, Análise e Desenvolvimento de Sistemas.
 
-I constantly get excited about something, I dedicate myself to a certain subject and when I learn a little I lose all interest and there is always an emptiness, a feeling that something is missing. That's when the anxiety started because I wondered if I was really doing the right thing. If I chose another area the same thing won't happen? Or will I regret it? Or I actually liked what I did -  sometimes yes, sometimes no. Is it normal?
+Assim que eu novamente não me senti mais desafiada, decidi que era hora de mudar de novo. Fui morar em outra cidade e comecei a trabalhar como Analista de projetos numa startup de tecnologia que desenvolve software para a educação — e nesse caso, vejam só, a minha formação em Pedagogia foi super útil.
 
-### Is passion an illusion?
+E do novo, durante esse tempo eu não amava o que eu fazia, mas preciso destacar que hoje me sinto orgulhosa com a maneira como eu estava fazendo o meu trabalho. Eu sempre dei o meu melhor e sem dúvidas foi a época que mais evolui como profissional: tive experiência com operações, comercial, marketing, processos, de tudo um pouco. E por fim, me tornei Gerente de produtos. Agora estou eu aqui, de novo, fazendo uma nova transição de carreira.
+
+Depois de tanta indecisão em relação à minha profissão e depois de caminhar por todas essas diferentes áreas eu acabei percebendo que não é o trabalho em si que me dava a motivação diária e sim o objetivo da conquista. Eu acho que sempre fui movida a desafios, sempre fui muito determinada fazendo tudo o que estava ao meu alcance para chegar onde eu queria.
+
+Constantemente me empolgo com algo, me dedico a um determinado assunto e quando aprendo um pouco perco todo o interesse e fica sempre um vazio, uma sensação de que falta algo. Foi aí que a angústia e ansiedade começaram, pois comecei a pensar se realmente eu estava fazendo a coisa certa. Quem me garante que quando eu for para uma outra área a mesma coisa não vai acontecer? Ou será que eu vou me arrepender? Ou quem sabe na verdade eu gostava sim do que eu fazia, às vezes sim, às vezes não. Será que é normal?
+
+### A paixão é uma ilusão?
 
 <p><img src="https://media.giphy.com/media/6AaB96ZVrUN0I/giphy.gif" width="600" height="600" /></p>
 
-Motivated by phrases such as "do what you love and will never have to work again in life" I started to research the subject, wanted to understand why I am not passionate about what I do or why this passion ends after a while. This epidemic of unhappiness at work is so serious that it has become a subject for <a href="https://news.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx" target="_blank">research</a>. Did you know that at each 8 employees of a company, only 1 is happy and engaged with what it does?
+Motivada por frases do tipo “faça o que você ama e nunca mais vai precisar trabalhar na vida” eu comecei a pesquisar sobre o tema, queria entender porque eu não sou apaixonada pelo que eu faço ou porque essa paixão acaba depois de um tempo.
 
-After a lot of research, that kind of statement started to bother me. Doing what you like, being satisfied with the work is super important for our happiness, but saying that this is necessary is a little unfair because not everyone has the opportunity to do what they love. Besides, the works related to doing what you love are usually related to travel, creativity, fashion and several things that you do when you want to have fun or relax, not work.
+Essa epidemia de infelicidade no trabalho é tão séria que que virou motivo de <a href="https://news.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx" target="_blank">pesquisa</a>. Vocês sabiam que a cada 8 funcionários de uma empresa, somente 1 é feliz e engajado com que ele faz?
 
-I have found that most of these people who end up working with what they love usually have a very clear vision of what they want for life. They have found the way to their true vocation and there is no other option for them. But what about the rest of us? And those for whom the path is not so clear? Many people that I know say they are not sure what they want to do.
+Depois de muito pesquisar, esse tipo de afirmação começou a me incomodar. Fazer o que se gosta, estar satisfeito com o trabalho é super importante para a nossa felicidade, mas afirmar que isso é necessário é um pouco injusto porque nem todo mundo tem a oportunidade de fazer o que ama. Além disso os trabalhos relacionados a fazer o que se ama normalmente estão relacionados a viagens, criatividade, moda e várias coisas que a gente faz quando quer se divertir ou relaxar, e não trabalhar.
 
-So imagine the frustration of these people who don't know what they love to do, or even those who can't quit their jobs or change careers. Another point is that maybe you can love a lot of things at the same time. Passions are changeable - who has never changed their opinion in life?
+Descobri que a maioria dessas pessoas que acabam trabalhando com o que amam geralmente tem uma visão muito clara do que querem para a vida toda. Eles encontraram o caminho para a sua verdadeira vocação e não há outra opção para elas. Mas e o resto de nós? E aqueles para quem o caminho não é tão claro?
 
-But I'm not saying that if you're unhappy at work you need to accept it. Hating your job, counting the hours you spend there, counting the minutes until the end of the day can be bad for your health. If you really don't like your work, change. But know that trying to fill your life by just doing things that you are in love with or thinking that your work should not only support your financial needs, but also simultaneously support your spiritual, mental and emotional needs will only result in a state of frustration.
+Outro ponto é que talvez você possa amar muitas coisas ao mesmo tempo. Paixões são mutáveis — quem nunca mudou de opnião na vida?
 
-The point under consideration here is that there is nothing wrong if you do not feel passionate about your work. Perhaps the insistence that it is essential to love your work is more depressing than working on a job which is good but not exciting for you - I say this from personal experience.
+Mas eu não estou dizendo que se você está infeliz no trabalho precisa aceitar isso. Odiar o seu trabalho, contando as horas que você passa lá, contando os minutos até o final do dia, pode até prejudicar sua saúde. Se você realmente não gosta do seu trabalho, mude. Porém saiba que tentar preencher a vida fazendo somente coisas que se está apaixonado ou achar que seu trabalho deve, não apenas sustentar suas necessidades financeiras, mas também simultaneamente sustentar suas necessidades espirituais, mentais e emocionais só vai trazer como resultado um estado de frustração.
 
-### There are other ways
+O ponto em consideração aqui é que não há nada de errado se você não se sente apaixonado pelo seu trabalho. Talvez a insistência de que é essencial adorar seu trabalho seja mais angustiante e deprimente do que trabalhar em um trabalho que é bom mas não é apaixonante para você — digo isso por experiência própria.
+
+
+### Existem outros caminhos
 
 <p><img src="https://media.giphy.com/media/yWh7b6fWA5rJm/giphy.gif" width="600" height="600" /></p>
 
-I recently read a book called *"So good they can't ignore you."* In it the author defends a theory that for a person to feel professionally fulfilled has to have three basic psychological needs met:
-
-- **Autonomy**: The feeling that you have control over your day and that what you do is important. Sometimes we have the feeling that we are not doing what we wanted to do, or that we are not being helpful, but we need to recognize that all work is important to the world.
-
-- **Competence**: The feeling that you are very good at what you do, no matter what you do, do it the best you can. Who works well will always stand out.
-
-- **Belonging**: Feeling that what you do and you belong to something greater than just your work.
-
-Newport suggests that you don't follow your passion, but find out what skills you can develop. In the book the author presents a study that concluded that the happiest and most involved employees are not those who have been guided by passion, but those who have developed enough to become really good at what they do. What really matters is not finding the right job, but finding out how good you can be at any job. In short:
-
-> More important than doing what you love is loving what you do.
-
-You'll feel great when you're doing a great job and you're being recognized. You will end up feeling that you really like what you do. Another thing to remember is that all work is temporary and it is not necessary or even possible to be excited about what you do every minute of every day.
-
-Today I see my work as part of my life. I try to be happy in other areas and not just focus on my professional achievement. Finding what you love is only half the equation. What you take from your work and what you get from the things you love are different things. Your work is mainly for your salary and your contribution to society, and that is what finances the rest of your life.
-
-My tip is focus on the things that bring you joy. Make your family and friends a priority, spend time with yourself, love your hobbies. These small steps may encourage you to make bigger changes, even a career change.
-
-Have you discovered your vocation? Do you do what you love? Comment down here and let me know if you agree with this view. 😉
+Recentemente eu li um livro chamado  *"So good they can't ignore you."*  (Tão bom que eles não podem te ignorar). Nele o autor defende uma teoria de que para uma pessoa se sentir realizada profissionalmente tem que ter três necessidades psicológicas básicas atendidas:
 
 
+- **Autonomia**: O sentimento de que você tem controle sobre o seu dia e de que o que você faz é importante. Às vezes temos a sensação de que não estamos fazendo o que queríamos fazer, ou que não estamos sendo úteis, porém precisamos reconhecer que todo o trabalho é importante para o mundo.
+
+- **Competência**: O sentimento de que você é muito bom naquilo que você faz, não importa o que você faça, faço da melhor forma possível. Quem trabalha bem sempre vai se destacar.
+
+- **Pertencimento**: Sentimento de que o que você faz e você pertencem a algo maior do que só o seu trabalho.
+
+Newport sugere que você não siga sua paixão, mas descubra quais habilidades pode desenvolver. No livro o autor apresenta um estudo que concluiu que os funcionários mais felizes e mais envolvidos não são aqueles que se guiaram pela paixão, mas sim aqueles que se desenvolveram o bastante para tornarem-se realmente bons no que fazem. O que realmente importa não é achar o emprego certo, e sim descobrir como você pode ser bom em qualquer emprego. Em resumo:
+
+> Mais importante do que fazer o que se ama é amar o que você faz.
+
+Você vai se sentir muito bem quando está fazendo um ótimo trabalho e está sendo reconhecido. Você acabará sentindo que realmente gosta do que faz. Outra coisa para lembrar é que todo trabalho é temporário e além disso, não é necessário nem mesmo possível se emocionar com o que você faz a cada minuto de cada dia.
+
+Hoje eu vejo meu trabalho como parte da minha vida. Eu busco ser feliz em outros âmbitos e não focar somente na minha realização profissional. Encontrar o que você ama é apenas metade da equação. O que você tira do seu trabalho e o que você obtém das coisas que você ama são coisas diferentes. Seu trabalho é principalmente para o seu salário e sua contribuição para a sociedade, e é isso que financia o resto da sua vida.
+
+Concentre-se nas coisas que lhe trazem alegria. Faça da sua família e amigos uma prioridade, passe tempo consigo mesmo, ame seus hobbies. Essas pequenas ações podem encorajá-lo a fazer mudanças maiores, até mesmo uma mudança de carreira, ou você pode simplesmente continuar vivendo fora do seu trabalho.
+
+E você, já descobriu a sua vocação? Você faz o que ama? Comentem aqui em baixo e me deixe saber se você concorda com esse ponto de vista. 😉
