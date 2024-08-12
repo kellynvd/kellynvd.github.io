@@ -16,12 +16,12 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
-locale: en-US
+locale: pt-BR
 title: "Kellyn Duarte"
-description: "You live. You learn. You upgrade."
+description: "Reflexões e conselhos para construir uma vida e carreira significativas"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://kellynvd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/logo.png"
+logo: "/images/logo-2.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -100,14 +100,17 @@ author:
       url: https://github.com/kellynvd
       icon: fab fa-github-square
     - title: Instagram
-      url: https://instagram.com/kellynvd
+      url: https://instagram.com/kellynduarte
       icon: fab fa-instagram
     - title: Linkedin
-      url: https://www.linkedin.com/in/kellynvd/
+      url: https://www.linkedin.com/in/kellynduarte/
       icon: fab fa-linkedin
-    - title: Twitter
-      url: https://twitter.com/kellynvd
-      icon: fab fa-twitter-square
+    - title: TikTok
+      url: https://www.tiktok.com/@kellynduarte_
+      icon: fab fa-tiktok
+    - title: Youtube
+      url: https://www.youtube.com/@kellynduarte
+      icon: fab fa-youtube
 
 # Footer Links
 footer_links:
@@ -115,14 +118,17 @@ footer_links:
     url: https://github.com/kellynvd
     icon: fab fa-github-square
   - title: Instagram
-    url: https://instagram.com/kellynvd
+    url: https://instagram.com/kellynduarte
     icon: fab fa-instagram
   - title: Linkedin
-    url: https://www.linkedin.com/in/kellynvd/
+    url: https://www.linkedin.com/in/kellynduarte/
     icon: fab fa-linkedin
-  - title: Twitter
-    url: https://twitter.com/kellynvd
-    icon: fab fa-twitter-square
+  - title: TikTok
+    url: https://www.tiktok.com/@kellynduarte_
+    icon: fab fa-tiktok
+  - title: Youtube
+    url: https://www.youtube.com/@kellynduarte
+    icon: fab fa-youtube
 #  - title: Feed
 #    url: atom.xml
 #    icon: fas fa-rss-square

@@ -1,6 +1,37 @@
 # Theme text and labels
 
 
+# Portuguese
+# -----------------
+pt-BR: &DEFAULT_PT_BR
+  skip_links: "Pular links"
+  skip_primary_nav: "Pular para navegação principal"
+  skip_content: "Pular para o conteúdo"
+  skip_footer: "Pular para o rodapé"
+  menu_label: "Menu"
+  by: "por"
+  min_read: "min leitura"
+  read_more: "Ler mais"
+  categories: "Categorias"
+  tags: "Tags"
+  pages_categorized: "Páginas classificadas em"
+  pages_tagged: "Páginas tagged"
+  table_of_contents: "Índice"
+  results_found: "Resultado(s) encontrado(s)"
+  share: "Compartilhar"
+  tweet: "Tweet"
+  next: "Próximo"
+  previous: "Anterior"
+  newer: "Novos"
+  older: "Antigos"
+  back_to_top: "Voltar ao topo"
+  search_placeholder_text: "Pesquisar..."
+  powered_by: "Powered by"
+pt-BR:
+  <<: *DEFAULT_PT_BR
+en-US:
+  <<: *DEFAULT_PT_BR
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN
@@ -35,6 +66,9 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+
+
 
 
 # German
