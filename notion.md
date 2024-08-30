@@ -35,6 +35,13 @@ permalink: /segundo-cerebro/
       text-decoration: underline;
     }
 
+    .highlight {
+      color: #b7bd74;
+      text-decoration: none;
+      font-style: italic;
+      font-weight: bold;
+    }
+
     .btn {
       display: inline-block;
       padding: 12px 50px;
@@ -99,7 +106,7 @@ permalink: /segundo-cerebro/
  	importHotmart();
  </script>
 
-Tem alguns anos já que eu descobri essa metodologia chamada "Segundo Cérebro" e desde então eu venho usando ela para organizar a minha vida. E baseado nesse sistema eu criei esse template para me ajudar a melhorar a forma como eu organizo minhas ideias, projetos e referências, tudo no Notion.
+Tem alguns anos já que eu descobri essa metodologia chamada "Segundo Cérebro" e desde então eu venho usando ela para organizar a minha vida. E baseado nesse sistema eu criei esse template para te ajudar a melhorar a forma como você organiza suas ideias, projetos e referências, tudo no Notion.
 
 <div class="center">
     <a onclick="return false;" href="https://pay.hotmart.com/A95186009K?checkoutMode=2" class="btn hotmart-fb">Quero me organizar</a>
@@ -130,7 +137,7 @@ Com um "Segundo Cérebro", você terá um repositório digital personalizado par
 - **Melhore sua aprendizagem**: Com um Segundo Cérebro, você pode armazenar e revisitar informações importantes, garantindo que elas sejam internalizadas e aplicadas na sua vida.
 - **Explore sua criatividade**: Com todas as suas informações centralizadas, você pode facilmente fazer conexões e gerar novas ideias que antes passavam despercebidas.
 - **Tenha um repositório confiável**: O Segundo Cérebro é um repositório digital acessível a qualquer momento, garantindo que nenhuma informação importante se perca.
-- **Organize sua vida com facilidade**: Com ferramentas como o Notion, você pode categorizar e organizar suas tarefas, projetos e áreas de interesse de forma prática e personalizada.
+- **Organize sua vida com facilidade**: Você pode categorizar e organizar suas tarefas, projetos e áreas de interesse de forma prática e personalizada.
 
 <div class="image-container">
     <img src="/images/notion-tarefas.png" alt="Organização de Tarefas">
@@ -141,14 +148,14 @@ Com um "Segundo Cérebro", você terá um repositório digital personalizado par
     <a href="https://youtu.be/asFCmufrcYM?si=yOakKbI2PPpLM-3P" target="_blank" class="btn">Veja em Ação</a>
 </div>
 
-Adotar o conceito do Segundo Cérebro é dar um passo significativo em direção a uma vida mais organizada, produtiva e criativa. É a maneira perfeita de garantir que todas as suas ideias e aprendizados estejam sempre ao seu alcance, quando você mais precisar.
+Adotar o conceito do Segundo Cérebro é dar um passo significativo em direção a uma <span class="highlight">vida mais organizada, produtiva e criativa</span>. É a maneira perfeita de garantir que todas as suas ideias e aprendizados estejam sempre ao seu alcance, quando você mais precisar.
 
 ## O que você vai encontrar no template:
 
 - **Estrutura baseada no método PARA**: Projetos, Áreas, Recursos e Arquivos, tudo organizado para otimizar seu fluxo de trabalho.
-- **Ferramentas de Captura Rápida**: Crie tarefas, notas ou recursos de forma rápida.
-- **Visualizações Inteligentes**: Veja suas tarefas em diferentes formatos, como listas, calendários ou cartões, e filtre informações com facilidade.
-- **Automatização de Tarefas Repetitivas**: Configure templates para tarefas recorrentes, economizando tempo e garantindo que nada importante seja esquecido.
+- **Ferramentas de captura rápida**: Crie tarefas, notas ou recursos de forma rápida.
+- **Visualizações inteligentes**: Veja suas tarefas em diferentes formatos, como listas, calendários, gráficos e filtre informações com facilidade.
+- **Automatização de tarefas repetitivas**: Configure modelos para tarefas recorrentes, economizando tempo e garantindo que nada importante seja esquecido.
 
 <div class="image-container">
     <img src="/images/notion-intro.png" alt="Estrutura baseada no método PARA">
