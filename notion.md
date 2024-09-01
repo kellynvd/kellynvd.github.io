@@ -145,7 +145,7 @@ Com um "Segundo Cérebro", você terá um repositório digital personalizado par
 </div>
 
 <div class="center">
-    <a href="https://youtu.be/asFCmufrcYM?si=yOakKbI2PPpLM-3P" target="_blank" class="btn">Veja em Ação</a>
+    <a href="https://youtu.be/68niL_bBkyA" target="_blank" class="btn">Veja em Ação</a>
 </div>
 
 Adotar o conceito do Segundo Cérebro é dar um passo significativo em direção a uma <span class="highlight">vida mais organizada, produtiva e criativa</span>. É a maneira perfeita de garantir que todas as suas ideias e aprendizados estejam sempre ao seu alcance, quando você mais precisar.
