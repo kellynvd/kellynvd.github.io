@@ -281,6 +281,12 @@ permalink: /shop/
       <button><a href="https://amzn.to/3C292bZ" target="_blank">Comprar</a></button>
     </div>
 
+    <div class="product-card product" data-tags="kellyn">
+      <img src="https://images1.kabum.com.br/produtos/fotos/275871/teclado-sem-fio-logitech-mx-keys-mini-iluminacao-smart-bluetooth-usb-easy-switch-recarregavel-grafite-920-010505_1677185299_g.jpg" alt="Mx keys">
+      <h3>Teclado Logitech MX Keys Mini</h3>
+      <button><a href="https://amzn.to/42XL5xE" target="_blank">Comprar</a></button>
+    </div>
+
     <div class="product-card product" data-tags="marcelo">
       <img src="https://images.tcdn.com.br/img/img_prod/740836/notebook_dell_vostro_3401_core_i5_1035g1_mem_8gb_ssd_256gb_tela_14_hd_windows_10_home_outlet_12879_5_533b245059a126653a44aa8adc11c469.jpg" alt="Notebook Dell">
       <h3>Notebook Dell Vostro 14</h3>
@@ -347,16 +353,24 @@ permalink: /shop/
       <button><a href="https://amzn.to/3DTbe6d" target="_blank">Comprar</a></button>
     </div>
 
+    <div class="product-card product" data-tags="gravacao">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_713023-CBT77777392147_072024-O.webp" alt="Garra Ulanzi">
+      <h3>Garra Ulanzi</h3>
+      <button><a href="https://amzn.to/4hPJU7G" target="_blank">Comprar</a></button>
+    </div>
+
+    <div class="product-card product" data-tags="gravacao">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_733914-CBT81039244963_112024-O.webp" alt="Suporte Osmo">
+      <h3>Suporte Osmo com imã</h3>
+      <button><a href="https://mercadolivre.com/sec/1QL3kHh" target="_blank">Comprar</a></button>
+    </div>
+
     <div class="product-card product" data-tags="kellyn marcelo">
-      <img src="https://http2.mlstatic.com/D_NQ_NP_793705-MLU75720602794_042024-O.webp" alt="SanDisk SSD">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_793705-MLU75720602794_042024-O.webp" alt="Eva e Walle">
       <h3>Eva e Wall-e</h3>
       <button><a href="https://www.mercadolivre.com.br/walle-eva-boneco-action-figure-disney-pixar-8cm/p/MLB22732316#polycard_client=search-nordic&searchVariation=MLB22732316&position=42&search_layout=stack&type=product&tracking_id=26fdc8b1-17cf-4ff3-8b11-4f778dec98de&wid=&sid=search" target="_blank">Comprar</a></button>
     </div>
-
-
-
   </div>
-
 
   <script>
     const searchInput = document.getElementById('search');
