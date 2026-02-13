@@ -467,6 +467,12 @@ permalink: /shop/
       <h3>Meia Poliamida </h3>
       <button><a href="https://tidd.ly/4kAcwE9" target="_blank">Comprar</a></button>
     </div>
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://m.media-amazon.com/images/I/4199pCCm-oL._AC_SL1121_.jpg" alt="Eva e Walle">
+      <h3>Shokz OpenRun Pro 2  </h3>
+      <button><a href="https://amzn.to/4bVByvu" target="_blank">Comprar</a></button>
+    </div>
   </div>
 
   <script>
