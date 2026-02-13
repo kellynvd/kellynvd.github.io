@@ -158,6 +158,7 @@ permalink: /shop/
       <button class="filter-btn" data-tag="kellyn">Setup Kellyn</button>
       <button class="filter-btn" data-tag="marcelo">Setup Marcelo</button>
       <button class="filter-btn" data-tag="gravacao">Equipamentos de Gravação</button>
+      <button class="filter-btn" data-tag="corrida">Corrida</button>
     </div>
 
   <div class="product-grid product-list">
@@ -182,7 +183,7 @@ permalink: /shop/
     <div class="product-card product" data-tags="cafe">
       <img src="https://http2.mlstatic.com/D_NQ_NP_864834-CBT77988856517_072024-O.webp" alt="Balança Digital">
       <h3>Balança Digital Timemore</h3>
-      <button><a href="https://amzn.to/3E3Kobl" target="_blank">Comprar</a></button>
+      <button><a href="https://amzn.to/4axFBLW" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="cafe">
@@ -212,7 +213,7 @@ permalink: /shop/
     <div class="product-card product" data-tags="cafe">
       <img src="https://cdn.awsli.com.br/600x450/823/823384/produto/41869537/478693af08.jpg" alt="Hario V60">
       <h3>Hario V60</h3>
-      <button><a href="https://amzn.to/40vdFEK" target="_blank">Comprar</a></button>
+      <button><a href="https://amzn.to/4qvZSYf" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="cafe">
@@ -242,23 +243,23 @@ permalink: /shop/
     <div class="product-card product" data-tags="kellyn">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-CRK3owxsSLsBivic317cZG9-fpqnWpYPA&s" alt="Teclado Razer">
       <h3>Teclado Mecânico Razer Blackwidow Lite</h3>
-      <button><a href="https://mercadolivre.com/sec/2JphGLs" target="_blank">Comprar</a></button>
+      <button><a href="https://tidd.ly/4qwoRed" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="kellyn">
       <img src="https://http2.mlstatic.com/D_NQ_NP_637359-MLU78868612596_092024-O.webp" alt="Mouse Logitech">
       <h3>Mouse Logitech MX Ergo</h3>
-      <button><a href="https://mercadolivre.com/sec/2nGfAnH" target="_blank">Comprar</a></button>
+      <button><a href="https://mercadolivre.com/sec/2hQxSHt" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="kellyn marcelo">
       <img src="https://loja.elements.com.br/cdn/shop/files/cadeira-ergonomica-elements-sophy-006.png?v=1730293689&width=1000" alt="Cadeira Sophy">
       <h3>Cadeira Sophy Elements</h3>
-      <button><a href="https://tidd.ly/4e1Zawk" target="_blank">Comprar</a></button>
+      <button><a href="https://www.awin1.com/cread.php?awinmid=48557&awinaffid=1709665&ued=https%3A%2F%2Floja.elements.com.br%2Fproducts%2Fcadeira-ergonomica-elements-sophy%3F_pos%3D1%26_sid%3D9e0162a2d%26_ss%3Dr" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="kellyn marcelo">
-      <img src="https://www.geniodesks.com.br/media/catalog/product/cache/1/image/300x/0dc2d03fe217f8c83829496872af24a0/t/a/tampo_preto_base_home_preta_4_1.jpg" alt="Mesa GenioDesk">
+      <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQn1OENtx0zPY_T0FL-LWLG4eSAJqBPh_LG07qrRusjlxRTUbOPfzGigCntEo7WK_38an7AfwEa&usqp=CAc" alt="Mesa GenioDesk">
       <h3>Mesa com Regulagem de Altura GenioDesk PRO</h3>
       <button><a href="https://www.geniodesks.com.br/mesa-regulagem-eletrica/produto-mesa-com-regulagem-de-altura-geniodesk-pro" target="_blank">Comprar</a></button>
     </div>
@@ -269,10 +270,18 @@ permalink: /shop/
       <button><a href="https://pt.aliexpress.com/item/1005005647942386.html?spm=a2g0o.order_list.order_list_main.70.7e20caa4EBuER9&gatewayAdapt=glo2bra" target="_blank">Comprar</a></button>
     </div>
 
+     <div class="product-card product" data-tags="kellyn marcelo">
+      <img src="https://down-br.img.susercontent.com/file/sg-11134201-7rbl7-lo5qhtjumcdv9a.webp" alt="Mouse Pad">
+      <h3>Temporizador cubo</h3>
+      <button><a href="https://s.shopee.com.br/7KrUiUzODQ" target="_blank">Comprar</a></button>
+    </div>
+
+
+
     <div class="product-card product" data-tags="kellyn">
-      <img src="https://images-americanas.b2w.io/produtos/01/00/img/4126920/6/4126920638_1GG.jpg" alt="Suporte Lamicall">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_766170-MLA95970239508_102025-F.webp" alt="Suporte Lamicall">
       <h3>Suporte Notebook Lamicall</h3>
-      <button><a href="https://lamicallshop.com" target="_blank">Comprar</a></button>
+      <button><a href="https://mercadolivre.com/sec/31Z5b6C" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="kellyn">
@@ -324,15 +333,34 @@ permalink: /shop/
     </div>
 
     <div class="product-card product" data-tags="gravacao">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_890083-MLA99938135145_112025-F.webp" alt="DJI Osmo Pocket">
+      <h3>Dji Osmo Nano</h3>
+      <button><a href="https://mercadolivre.com/sec/2j7LP2U" target="_blank">Comprar</a></button>
+    </div>
+
+
+    <div class="product-card product" data-tags="gravacao">
       <img src="https://br.octoshop.com/cdn/shop/files/Fujifilm_X100V_2.jpg?v=1734981794&width=610" alt="Fujifilm X100V">
       <h3>Fujifilm X100V</h3>
-      <button><a href="https://loja.fujifilm.com.br/collections/x100v?srsltid=AfmBOorgWjjxJU3pNjOJ0nkf-mw2kxC79H6UslcHo5i2ZjaL31IjxPyU" target="_blank">Comprar</a></button>
+      <button><a href="https://mercadolivre.com/sec/2AvtNah" target="_blank">Comprar</a></button>
+    </div>
+
+     <div class="product-card product" data-tags="gravacao">
+      <img src="https://loja.fujifilm.com.br/cdn/shop/files/1_0a1871b5-b4b4-4581-8ae2-54e1644f9dc4.jpg?v=1738586358" alt="Fujifilm X-M5">
+      <h3>Fujifilm X-M5</h3>
+      <button><a href="https://www.lojadosmarios.com/camera-fujifilm-x-m5-com-lente-xc-15-45mm-f35-56-prata?utm_source=Site&utm_medium=GoogleShopping&utm_campaign=IntegracaoGoogle&gad_source=4&gad_campaignid=17946726685&gbraid=0AAAAAo1gnECmislBG2RUdJMF3OAFhkG1u&gclid=CjwKCAiAtLvMBhB_EiwA1u6_Pvq9szptaSIEwJy_9vyUuM-pSM_9luYYuiP-JUBcJQ6w4TAZL31F9hoCXMoQAvD_BwE" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="gravacao">
-      <img src="https://djibrasil.vtexassets.com/arquivos/ids/171951-800-auto?v=638681797921100000&width=800&height=auto&aspect=true" alt="Microfone DJI">
+      <img src="https://images0.kabum.com.br/produtos/fotos/937020/microfone-dji-mic-2-1-tx-microfone-br-dji114_1761305093_gg.jpg" alt="Microfone DJI">
       <h3>Microfone DJI Mic 2</h3>
-      <button><a href="https://www.lojadji.com.br/microfone-dji-mic-2-1-tx-microfone-br-dji114/p?idsku=82&utm_source=google-dji&utm_medium=ECM-cpc&utm_campaign=DJI_M2C_PMAX_Generica_DC_Espec_final_Top-Estados_none_none_google_conversoes&cd=&mig=ok&z=&utm_term=&utm_content=&gad_source=1&gbraid=0AAAAAotRq0hV3f00r1oxBkfijVBnlkfmc&gclid=Cj0KCQiAkJO8BhCGARIsAMkswyiEeSmN-GW6lOi0DcR5y4z6gt5m6U3biokdPXFTeWzqaLVL2IQq0OkaAoU_EALw_wcB" target="_blank">Comprar</a></button>
+      <button><a href="https://tidd.ly/4rh6uLv" target="_blank">Comprar</a></button>
+    </div>
+
+      <div class="product-card product" data-tags="gravacao">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_914829-MLA100075901141_122025-F.webp" alt="Microfone DJI Mini">
+      <h3>Microfone DJI Mic Mini</h3>
+      <button><a href="https://mercadolivre.com/sec/1QNM8rs" target="_blank">Comprar</a></button>
     </div>
 
     <div class="product-card product" data-tags="gravacao">
@@ -346,6 +374,13 @@ permalink: /shop/
       <h3>Tripé Tomate Mtg-3016</h3>
       <button><a href="https://mercadolivre.com/sec/1U1D1FA" target="_blank">Comprar</a></button>
     </div>
+
+     <div class="product-card product" data-tags="gravacao">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_772003-MLB86502726637_062025-F.webp" alt="Tripé">
+      <h3>Mini Tripé de mão Ulanzi TT38</h3>
+      <button><a href="https://mercadolivre.com/sec/1NZztCj" target="_blank">Comprar</a></button>
+    </div>
+
 
     <div class="product-card product" data-tags="gravacao">
       <img src="https://images6.kabum.com.br/produtos/fotos/534686/ssd-externo-portatil-sandisk-1tb-usb-leitura-800mb-s-preto-e-laranja-sdssde30-1t00-g26_1716569151_g.jpg" alt="SanDisk SSD">
@@ -365,10 +400,72 @@ permalink: /shop/
       <button><a href="https://mercadolivre.com/sec/1QL3kHh" target="_blank">Comprar</a></button>
     </div>
 
+    <div class="product-card product" data-tags="gravacao">
+      <img src="https://m.media-amazon.com/images/I/61gsQvs-dqL._AC_SL1000_.jpg" alt="Cartão de memória">
+      <h3>Cartão de memória</h3>
+      <button><a href="https://amzn.to/4rdk2HF" target="_blank">Comprar</a></button>
+    </div>
+
+    <div class="product-card product" data-tags="gravacao">
+      <img src="https://ae-pic-a1.aliexpress-media.com/kf/S562d2c58035d4ec2933b5b26557f6271b.jpg_960x960q75.jpg_.avif" alt="Cartão de memória">
+      <h3>Lente TTArtisan 27mm </h3>
+      <button><a href="https://s.click.aliexpress.com/e/_c4rBtnl9" target="_blank">Comprar</a></button>
+    </div>
+
+     <div class="product-card product" data-tags="gravacao">
+      <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc006b8c9add34af39025851760bde539n.jpg_960x960q75.jpg_.avif" alt="Cartão de memória">
+      <h3>Lente Viltrox 15mm F1.4 </h3>
+      <button><a href="https://s.click.aliexpress.com/e/_c3wjmMa7" target="_blank">Comprar</a></button>
+    </div>
+
     <div class="product-card product" data-tags="kellyn marcelo">
       <img src="https://http2.mlstatic.com/D_NQ_NP_793705-MLU75720602794_042024-O.webp" alt="Eva e Walle">
       <h3>Eva e Wall-e</h3>
       <button><a href="https://www.mercadolivre.com.br/walle-eva-boneco-action-figure-disney-pixar-8cm/p/MLB22732316#polycard_client=search-nordic&searchVariation=MLB22732316&position=42&search_layout=stack&type=product&tracking_id=26fdc8b1-17cf-4ff3-8b11-4f778dec98de&wid=&sid=search" target="_blank">Comprar</a></button>
+    </div>
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/eadd29254c964b26ac2ebe175b8f39d5_9366/Tenis_Adizero_EVO_SL_Branco_JH6208_HM1.jpg" alt="Eva e Walle">
+      <h3>Adidas Evo SL</h3>
+      <button><a href="https://tidd.ly/3Wx9aGP" target="_blank">Comprar</a></button>
+    </div>
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/e138c7d37c9e4115ad18d7628079a77d_9366/Tenis_Adizero_Adios_Pro_4_Branco_JR1094_01_00_standard.jpg" alt="Eva e Walle">
+      <h3>Adidas Adios Pro 4</h3>
+      <button><a href="https://tidd.ly/3M92CNl" target="_blank">Comprar</a></button>
+    </div>
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_669268-MLB105133954395_012026-F.webp" alt="Eva e Walle">
+      <h3>Colete de hidratação </h3>
+      <button><a href="https://mercadolivre.com/sec/2quNqCx" target="_blank">Comprar</a></button>
+    </div>
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_793133-MLA88667868937_072025-F.webp" alt="Eva e Walle">
+      <h3>Garrafa Soft Flask </h3>
+      <button><a href="https://mercadolivre.com/sec/1NKMB8x" target="_blank">Comprar</a></button>
+    </div>
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://down-br.img.susercontent.com/file/br-11134207-7r98o-mc2em3xge84n4b.webp" alt="Eva e Walle">
+      <h3>Garrafa Curva </h3>
+      <button><a href="https://s.shopee.com.br/2LSolzanGG" target="_blank">Comprar</a></button>
+    </div>
+
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_795287-MLU77388119283_072024-F.webp" alt="Eva e Walle">
+      <h3>Óculos Mormaii Smash </h3>
+      <button><a href="https://mercadolivre.com/sec/11gWsWv" target="_blank">Comprar</a></button>
+    </div>
+
+
+    <div class="product-card product" data-tags="corrida">
+      <img src="https://decathlonstore.vtexassets.com/unsafe/fit-in/1256x1256/center/middle/https%3A%2F%2Fdecathlonpro.vtexassets.com%2Farquivos%2Fids%2F165382390%2Fpackshot-codigo-modelo-8810472.jpg%3Fv%3D638727885052500000" alt="Eva e Walle">
+      <h3>Meia Poliamida </h3>
+      <button><a href="https://tidd.ly/4kAcwE9" target="_blank">Comprar</a></button>
     </div>
   </div>
 
