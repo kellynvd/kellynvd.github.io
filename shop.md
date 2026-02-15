@@ -228,11 +228,20 @@ permalink: /shop/
       <button><a href="https://mercadolivre.com/sec/2tpHw6M" target="_blank">Comprar</a></button>
     </div>
 
-    <div class="product-card product" data-tags="kellyn marcelo">
+    <div class="product-card product" data-tags="kellyn">
       <img src="https://images3.kabum.com.br/produtos/fotos/371253/monitor-gamer-lg-26-ips-ultra-wide-75hz-full-hd-1ms-freesync-premium-hdr-10-99-srgb-hdmi-vesa-26wq500_1703079402_g.jpg" alt="Monitor Ultrawide LG">
       <h3>Monitor Ultrawide LG</h3>
       <button><a href="https://amzn.to/4ahmtBe" target="_blank">Comprar</a></button>
     </div>
+
+    <div class="product-card product" data-tags="marcelo">
+      <img src="https://m.media-amazon.com/images/I/519mhluOd3L._AC_SL1200_.jpg" alt="Monitor LG Ultrafine">
+      <h3>Monitor LG UltraFine</h3>
+      <button><a href="https://amzn.to/3Zz99nz" target="_blank">Comprar</a></button>
+    </div>
+
+
+
 
     <div class="product-card product" data-tags="kellyn marcelo">
       <img src="https://a-static.mlcdn.com.br/800x560/suporte-ergonomico-multiarticulado-de-mesa-para-monitor-17-a-35-elg-f98hdmi-pistao-a-gas-vesa-grafite-f98hdmi/kabum/469012/41bc9c61ab8009bca3286f6f7ff12323.jpeg" alt="Suporte Monitor">
